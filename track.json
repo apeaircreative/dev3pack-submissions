@@ -194,6 +194,25 @@
   "entries": [
     {
       "github": "250408900-maker",
+      "item": "cap01",
+      "submitted_at": "2026-10-05T07:13:18Z",
+      "ran": true,
+      "passed": [
+        "cap01-e1",
+        "cap01-e2",
+        "cap01-e3",
+        "cap01-e4",
+        "cap01-e5"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 500,
+      "max_score": 500,
+      "tier": "claimed"
+    },
+    {
+      "github": "250408900-maker",
       "item": "ch01",
       "submitted_at": "2026-09-20T08:53:44Z",
       "ran": true,
@@ -723,6 +742,23 @@
       "scored": true,
       "score": 400,
       "max_score": 400,
+      "tier": "claimed"
+    },
+    {
+      "github": "Eriol-0406",
+      "item": "ch03",
+      "submitted_at": "2026-10-05T03:31:50Z",
+      "ran": true,
+      "passed": [
+        "ch03-e1",
+        "ch03-e2",
+        "ch03-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
       "tier": "claimed"
     },
     {
@@ -1673,6 +1709,25 @@
     },
     {
       "github": "MarisolArgibay",
+      "item": "cap01",
+      "submitted_at": "2026-10-05T06:12:28Z",
+      "ran": true,
+      "passed": [
+        "cap01-e1",
+        "cap01-e2",
+        "cap01-e3",
+        "cap01-e4",
+        "cap01-e5"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 500,
+      "max_score": 500,
+      "tier": "claimed"
+    },
+    {
+      "github": "MarisolArgibay",
       "item": "ch01",
       "submitted_at": "2026-09-30T03:04:49Z",
       "ran": true,
@@ -1836,6 +1891,72 @@
       "score": 200,
       "max_score": 700,
       "tier": "unverifiable"
+    },
+    {
+      "github": "MarisolArgibay",
+      "item": "ch11",
+      "submitted_at": "2026-10-05T00:52:23Z",
+      "ran": true,
+      "passed": [
+        "ch11-e1",
+        "ch11-e2",
+        "ch11-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "MarisolArgibay",
+      "item": "ch12",
+      "submitted_at": "2026-10-05T01:08:26Z",
+      "ran": true,
+      "passed": [
+        "ch12-e2",
+        "ch12-e1",
+        "ch12-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "MarisolArgibay",
+      "item": "ch13",
+      "submitted_at": "2026-10-05T01:09:34Z",
+      "ran": true,
+      "passed": [
+        "ch13-e4",
+        "ch13-e2",
+        "ch13-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "MarisolArgibay",
+      "item": "ch14",
+      "submitted_at": "2026-10-05T01:10:34Z",
+      "ran": true,
+      "passed": [
+        "ch14-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "claimed"
     },
     {
       "github": "Messibre",
@@ -3250,6 +3371,72 @@
       "tier": "unverifiable"
     },
     {
+      "github": "Welu2",
+      "item": "ch11",
+      "submitted_at": "2026-10-05T13:06:38Z",
+      "ran": true,
+      "passed": [
+        "ch11-e1",
+        "ch11-e2",
+        "ch11-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "Welu2",
+      "item": "ch12",
+      "submitted_at": "2026-10-05T13:11:30Z",
+      "ran": true,
+      "passed": [
+        "ch12-e2",
+        "ch12-e1",
+        "ch12-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "Welu2",
+      "item": "ch13",
+      "submitted_at": "2026-10-05T13:20:09Z",
+      "ran": true,
+      "passed": [
+        "ch13-e4",
+        "ch13-e2",
+        "ch13-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "Welu2",
+      "item": "ch14",
+      "submitted_at": "2026-10-05T13:24:01Z",
+      "ran": true,
+      "passed": [
+        "ch14-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
+      "tier": "claimed"
+    },
+    {
       "github": "apeaircreative",
       "item": "ch01",
       "submitted_at": "2026-09-17T21:16:29Z",
@@ -3434,6 +3621,25 @@
     },
     {
       "github": "arr4-y",
+      "item": "cap01",
+      "submitted_at": "2026-10-04T23:39:01Z",
+      "ran": true,
+      "passed": [
+        "cap01-e1",
+        "cap01-e2",
+        "cap01-e3",
+        "cap01-e4",
+        "cap01-e5"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 500,
+      "max_score": 500,
+      "tier": "claimed"
+    },
+    {
+      "github": "arr4-y",
       "item": "ch01",
       "submitted_at": "2026-09-16T03:13:00Z",
       "ran": true,
@@ -3502,7 +3708,7 @@
     {
       "github": "arr4-y",
       "item": "ch05",
-      "submitted_at": "2026-09-21T03:44:05Z",
+      "submitted_at": "2026-10-05T03:42:03Z",
       "ran": true,
       "passed": [
         "ch05-e1",
@@ -3511,8 +3717,157 @@
       "failed": [],
       "not_reached": [],
       "scored": true,
-      "score": 200,
+      "score": 500,
       "max_score": 700,
+      "tier": "claimed"
+    },
+    {
+      "github": "arr4-y",
+      "item": "ch06",
+      "submitted_at": "2026-10-04T23:31:21Z",
+      "ran": true,
+      "passed": [
+        "ch06-e2",
+        "ch06-e3",
+        "ch06-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "arr4-y",
+      "item": "ch07",
+      "submitted_at": "2026-10-04T23:37:09Z",
+      "ran": true,
+      "passed": [
+        "ch07-e1",
+        "ch07-e2",
+        "ch07-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "arr4-y",
+      "item": "ch08",
+      "submitted_at": "2026-10-04T23:37:29Z",
+      "ran": true,
+      "passed": [
+        "ch08-e1",
+        "ch08-e2",
+        "ch08-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "arr4-y",
+      "item": "ch09",
+      "submitted_at": "2026-10-04T23:38:37Z",
+      "ran": true,
+      "passed": [
+        "ch09-e1",
+        "ch09-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 200,
+      "max_score": 200,
+      "tier": "claimed"
+    },
+    {
+      "github": "arr4-y",
+      "item": "ch10",
+      "submitted_at": "2026-10-04T23:38:44Z",
+      "ran": true,
+      "passed": [
+        "ch10-e1",
+        "ch10-e2"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 700,
+      "max_score": 700,
+      "tier": "unverifiable"
+    },
+    {
+      "github": "arr4-y",
+      "item": "ch11",
+      "submitted_at": "2026-10-05T00:43:37Z",
+      "ran": true,
+      "passed": [
+        "ch11-e1",
+        "ch11-e2",
+        "ch11-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "arr4-y",
+      "item": "ch12",
+      "submitted_at": "2026-10-05T00:53:51Z",
+      "ran": true,
+      "passed": [
+        "ch12-e2",
+        "ch12-e1",
+        "ch12-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "arr4-y",
+      "item": "ch13",
+      "submitted_at": "2026-10-05T01:23:21Z",
+      "ran": true,
+      "passed": [
+        "ch13-e4",
+        "ch13-e2",
+        "ch13-e1"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "arr4-y",
+      "item": "ch14",
+      "submitted_at": "2026-10-05T01:32:12Z",
+      "ran": true,
+      "passed": [
+        "ch14-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 100,
+      "max_score": 100,
       "tier": "claimed"
     },
     {
@@ -4596,6 +4951,25 @@
       "scored": true,
       "score": 200,
       "max_score": 700,
+      "tier": "claimed"
+    },
+    {
+      "github": "helasnoussi",
+      "item": "cap01",
+      "submitted_at": "2026-10-05T06:47:16Z",
+      "ran": true,
+      "passed": [
+        "cap01-e1",
+        "cap01-e2",
+        "cap01-e3",
+        "cap01-e4",
+        "cap01-e5"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 500,
+      "max_score": 500,
       "tier": "claimed"
     },
     {
@@ -6741,6 +7115,23 @@
         "ch11-e1",
         "ch11-e2",
         "ch11-e3"
+      ],
+      "failed": [],
+      "not_reached": [],
+      "scored": true,
+      "score": 300,
+      "max_score": 300,
+      "tier": "claimed"
+    },
+    {
+      "github": "lovelymahor",
+      "item": "ch12",
+      "submitted_at": "2026-10-05T04:56:18Z",
+      "ran": true,
+      "passed": [
+        "ch12-e2",
+        "ch12-e1",
+        "ch12-e3"
       ],
       "failed": [],
       "not_reached": [],
@@ -9082,18 +9473,37 @@
       "github": "apeaircreative",
       "gecko": null,
       "final": {
-        "percent": 67,
-        "passed": false,
-        "certificate_eligible": false
+        "percent": 80,
+        "passed": true,
+        "certificate_eligible": true
+      }
+    },
+    {
+      "github": "arr4-y",
+      "gecko": {
+        "repo": "https://github.com/arr4-y/my-gecko-buyer",
+        "commit": "2952f8948aaca2ab2f89713671f34ed88d72529b",
+        "url": "https://github.com/arr4-y/my-gecko-buyer/tree/2952f8948aaca2ab2f89713671f34ed88d72529b",
+        "submitted_at": "2026-10-05T05:42:02Z"
+      },
+      "final": {
+        "percent": 100,
+        "passed": true,
+        "certificate_eligible": true
       }
     },
     {
       "github": "baraa0abd",
-      "gecko": null,
+      "gecko": {
+        "repo": "https://github.com/baraa0abd/my-gecko-buyer",
+        "commit": "b5f19d82513b4e5bfce5e126546696c1ccc2656f",
+        "url": "https://github.com/baraa0abd/my-gecko-buyer/tree/b5f19d82513b4e5bfce5e126546696c1ccc2656f",
+        "submitted_at": "2026-10-05T07:59:05Z"
+      },
       "final": {
-        "percent": 93,
-        "passed": false,
-        "certificate_eligible": false
+        "percent": 100,
+        "passed": true,
+        "certificate_eligible": true
       }
     },
     {
@@ -9121,7 +9531,12 @@
     },
     {
       "github": "helasnoussi",
-      "gecko": null,
+      "gecko": {
+        "repo": "https://github.com/helasnoussi/my-gecko-buyer",
+        "commit": "92f7bfcc1e8ad000c70d0f40379cfbfbe8196802",
+        "url": "https://github.com/helasnoussi/my-gecko-buyer/tree/92f7bfcc1e8ad000c70d0f40379cfbfbe8196802",
+        "submitted_at": "2026-10-05T07:49:57Z"
+      },
       "final": {
         "percent": 87,
         "passed": true,
@@ -9224,12 +9639,40 @@
       }
     },
     {
-      "github": "semegn19",
-      "gecko": null,
+      "github": "rehna-jp",
+      "gecko": {
+        "repo": "https://github.com/rehna-jp/Dev3Pack-Gecko-Capstone-Project",
+        "commit": "00a68b1580d9b1591b5d84579eec76e0f5916151",
+        "url": "https://github.com/rehna-jp/Dev3Pack-Gecko-Capstone-Project/tree/00a68b1580d9b1591b5d84579eec76e0f5916151",
+        "submitted_at": "2026-10-05T11:29:20Z"
+      },
       "final": {
         "percent": 100,
         "passed": true,
         "certificate_eligible": true
+      }
+    },
+    {
+      "github": "semegn19",
+      "gecko": {
+        "repo": "https://github.com/semegn19/my-gecko-buyer",
+        "commit": "05ae15f9078be3d1529c1e80f5999d3abcc5f7a5",
+        "url": "https://github.com/semegn19/my-gecko-buyer/tree/05ae15f9078be3d1529c1e80f5999d3abcc5f7a5",
+        "submitted_at": "2026-10-05T01:05:30Z"
+      },
+      "final": {
+        "percent": 100,
+        "passed": true,
+        "certificate_eligible": true
+      }
+    },
+    {
+      "github": "thefranceway",
+      "gecko": null,
+      "final": {
+        "percent": 73,
+        "passed": false,
+        "certificate_eligible": false
       }
     }
   ]
